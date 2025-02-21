@@ -1,5 +1,5 @@
 import './Home.css'
-import DunderMifflinLogo from '/DunderMifflinLogo.png'
+import DunderMifflinLogo from '../assets/DunderMifflinLogo.png'
 import {Link} from "react-router-dom"
 
 function Home()

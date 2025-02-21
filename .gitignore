@@ -22,3 +22,8 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Other
+ChangeLog.txt
+Notes.txt
+Quote.txt
