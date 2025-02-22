@@ -1,4 +1,4 @@
-import './Home.css'
+import '../Styles/Home.css'
 import DunderMifflinLogo from '../assets/DunderMifflinLogo.png'
 import {Link} from "react-router-dom"
 
@@ -7,6 +7,7 @@ function Home()
     
     return (
     <>
+    <div className="main-content">
         <div>
             <a href="https://en.wikipedia.org/wiki/Dunder_Mifflin" target="_blank">
                 <img src={DunderMifflinLogo} className="logo" alt="Dunder Mifflin logo" 
@@ -22,6 +23,8 @@ function Home()
                 frameBorder="0"
             ></iframe>
         </div>
+    </div>
+        
     </>
     );
 

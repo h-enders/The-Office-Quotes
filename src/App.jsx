@@ -3,6 +3,7 @@ import Home from './Pages/Home'
 import Quotes from './Pages/Quotes'
 import About from './Pages/About'
 import Layout from './Layout'
+import './App.css'
 
 
 function App() {

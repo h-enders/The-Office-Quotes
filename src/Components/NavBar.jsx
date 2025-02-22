@@ -1,4 +1,4 @@
-import './NavBar.css'
+import '../Styles/NavBar.css'
 import DunderMifflinLogo from '../assets/DunderMifflinLogo.png'
 import {Link} from "react-router-dom"
 
@@ -21,7 +21,7 @@ function NavBar()
                             <li><Link to="/">{nav1}</Link></li>
                             <li><Link to="/quotes">{nav2}</Link></li>
                             <li><Link to="/about">{nav3}</Link></li>
-                            <li><h2>Limitless Paper in a Paperless World</h2>   </li>
+                            <li className="nav-body">Limitless Paper in a Paperless World   </li>
                             
                         </ul>
                     </nav>

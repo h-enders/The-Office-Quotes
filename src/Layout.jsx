@@ -8,7 +8,7 @@ function Layout()
     return(
         <>
             <NavBar/>
-            <main>
+            <main className="main-content">
                 {/*{/*Renders all child routes */}
                 <Outlet/> 
             </main>

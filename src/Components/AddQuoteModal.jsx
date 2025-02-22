@@ -1,6 +1,7 @@
-import Quote from '../Models/Quote'         // Import Quote class
+import '../Styles/AddQuoteModal.css'
+import Quote from '../Models/Quote'         // Import Quote className
 import {quotes} from '../Models/Quote'      // Import list of quotes
-import {useState} from "react"
+import React, {useState} from 'react'
 
 function AddQuoteModal()
 {
@@ -21,11 +22,17 @@ function AddQuoteModal()
                                 &times;
                             </span>
                             <p>Test text.</p>
+                            <p>Test text.</p>
+                            <p>Test text.</p>
+                            <p>Test text.</p>
                             </div>
                         </div>
                     </div>
                 )}
             </div>
+
+            
+
             
         
         </>

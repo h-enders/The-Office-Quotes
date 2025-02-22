@@ -1,3 +1,4 @@
+
 .logo {
     height: auto;
     padding: 1.5em;
@@ -10,3 +11,11 @@
   .logo.react:hover {
     filter: drop-shadow(0 0 2em #61dafbaa);
   }
+
+  .main-content {
+    align-content: center;
+    margin: auto;
+    width: 100%;
+    padding: 10px;
+  }
+
