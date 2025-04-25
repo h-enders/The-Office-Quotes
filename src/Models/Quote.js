@@ -23,6 +23,9 @@ let quote1 = new Quote(1, "Michael Scott", "Boom! Roasted.", 5, 13);
 const quotes = [quote1];
 let quote2 = new Quote(2, "Dwight Schrute", "Don't touch my treasure!", 8, 18)
 quotes.push(quote2);
+let quote3 = new Quote(3, "Jim Halpert", "Bears. Beets. Battlestar Galactica.", 3, 20)
+quotes.push(quote3);
+
 
 export default Quote    // Export Quote class
 export {quotes}         // Export instance of quotes list

@@ -1,0 +1,7 @@
+{
+    "quotes": [
+        { "quoteID": 1, "speaker": "Michael Scott", "quoteText": "Boom! Roasted.", "season": 5, "episode": 13, "embed": false},
+        { "quoteID": 2, "speaker": "Dwight Schrute", "quoteText": "Don't touch my treasure!", "season": 8, "episode": 18, "embed": false},
+        { "quoteID": 3, "speaker": "Jim Halpert", "quoteText": "Bears. Beets. Battlestar Galactica.", "season": 3, "episode": 20, "embed": false}
+    ]
+}
